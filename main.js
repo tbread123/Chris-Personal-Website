@@ -15,17 +15,15 @@
   }
 
   var slides = [
-    { src: "assets/photos/20251203_071400340_iOS.jpg", alt: "Memory Project — studio photograph 1" },
-    { src: "assets/photos/20251203_071831484_iOS.jpg", alt: "Memory Project — studio photograph 2" },
-    { src: "assets/photos/20251203_071832542_iOS.jpg", alt: "Memory Project — studio photograph 3" },
-    { src: "assets/photos/20251203_072833218_iOS.jpg", alt: "Memory Project — studio photograph 4" },
-    { src: "assets/photos/20251203_072834656_iOS.jpg", alt: "Memory Project — studio photograph 5" },
-    { src: "assets/photos/20251203_072846210_iOS.jpg", alt: "Memory Project — studio photograph 6" },
-    { src: "assets/photos/20251203_072847485_iOS.jpg", alt: "Memory Project — studio photograph 7" },
-    { src: "assets/photos/20251203_072848159_iOS.jpg", alt: "Memory Project — studio photograph 8" },
-    { src: "assets/photos/20251203_072848628_iOS.jpg", alt: "Memory Project — studio photograph 9" },
-    { src: "assets/photos/20251203_072850018_iOS.jpg", alt: "Memory Project — studio photograph 10" },
-    { src: "assets/photos/20251203_072850763_iOS.jpg", alt: "Memory Project — studio photograph 11" },
+    { src: "assets/photos/MemoryProject_1.jpg", alt: "Memory Project — studio photograph 1" },
+    { src: "assets/photos/MemoryProject_2.jpg", alt: "Memory Project — studio photograph 2" },
+    { src: "assets/photos/MemoryProject_3.jpg", alt: "Memory Project — studio photograph 3" },
+    { src: "assets/photos/MemoryProject_4.jpg", alt: "Memory Project — studio photograph 4" },
+    { src: "assets/photos/MemoryProject_5.jpg", alt: "Memory Project — studio photograph 5" },
+    { src: "assets/photos/MemoryProject_6.jpg", alt: "Memory Project — studio photograph 6" },
+    { src: "assets/photos/MemoryProject_7.jpg", alt: "Memory Project — studio photograph 7" },
+    { src: "assets/photos/MemoryProject_8.jpg", alt: "Memory Project — studio photograph 8" },
+    { src: "assets/photos/MemoryProject_9.jpg", alt: "Memory Project — studio photograph 9" },
   ];
 
   var root = document.getElementById("lightbox");
